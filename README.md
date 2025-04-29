@@ -15,3 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devPetinatti&size_weight=0.5&count_weight=0.5&theme=midnight-purple"/>
 </div>
 
+<div>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  
+</div>
