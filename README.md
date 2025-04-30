@@ -13,7 +13,7 @@
 <a href="https://github.com/devPetinatti">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devPetinatti&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&lang=pt-br"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devPetinatti&size_weight=0.5&count_weight=0.5&theme=midnight-purple"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devPetinatti&size_weight=0.5&count_weight=0.5&theme=midnight-purple&lang=pt-br"/>
 </div>
 
 <div>
