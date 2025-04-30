@@ -8,6 +8,7 @@
 - ⚡ Atualmente estou cursando Análise e Desenvolvimento de Sistemas!!
 
 
+<html lang="pt-br">
 <div>
 <a href="https://github.com/devPetinatti">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devPetinatti&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -23,3 +24,4 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
 </div>
+</html>
