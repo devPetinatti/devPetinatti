@@ -37,11 +37,11 @@ Java • Python • JavaScript
 ## 🌎 Me encontre aqui
 
 <p align="center">
-  <a href="SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-petinatti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="SEU_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/petinattiii/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
