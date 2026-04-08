@@ -38,9 +38,13 @@ Java • Python • JavaScript
 
 <p align="center">
   <a href="SEU_LINKEDIN" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="SEU_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
   
   &nbsp;&nbsp;&nbsp;
 
