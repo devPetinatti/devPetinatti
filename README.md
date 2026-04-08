@@ -50,16 +50,4 @@ Java • Python • JavaScript
 
 ---
 
-## ⚡ GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devPetinatti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devPetinatti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
 ⭐ Se curtir meus projetos, deixa uma estrela!
