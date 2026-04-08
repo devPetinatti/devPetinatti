@@ -29,7 +29,6 @@
 ## 📌 Projetos em destaque
 
 - 🔐 Verificador de senhas https://github.com/devPetinatti/Verificador-de-senha
-- 🛡️ [Outro Projeto](LINK_DO_PROJETO)
 
 ---
 
