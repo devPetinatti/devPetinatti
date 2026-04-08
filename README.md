@@ -45,14 +45,6 @@ Java • Python • JavaScript
     <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-  
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="SEU_INSTAGRAM" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="25"/>
-    Instagram
-  </a>
-</p>
 
 ## ⚡ GitHub Stats
 
