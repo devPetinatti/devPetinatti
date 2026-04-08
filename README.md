@@ -51,23 +51,8 @@ Java • Python • JavaScript
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devPetinatti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devPetinatti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=devPetinatti&theme=tokyonight&hide_border=true&background=0d1117"/>
-
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devPetinatti&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devPetinatti&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-</div>
-
 ⭐ Se curtir meus projetos, deixa uma estrela!
