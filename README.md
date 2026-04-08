@@ -11,7 +11,7 @@
 ## 🧠 Sobre mim
 
 - 🎯 Atualmente aprendendo: **Python | Redes | Segurança | Java | JavaScript**
-- 🛠️ Criando projetos simples para evoluir
+- 🛠️ Criando projetos práticos para evoluir
 - 📚 Sempre estudando algo novo
 
 ---
@@ -28,9 +28,11 @@ Java • Python • JavaScript
 
 </div>
 
+---
+
 ## 📌 Projetos em destaque
 
-- 🔐 Verificador de senhas https://github.com/devPetinatti/Verificador-de-senha
+- 🔐 [Verificador de Senhas](https://github.com/devPetinatti/Verificador-de-senha)
 
 ---
 
@@ -46,6 +48,8 @@ Java • Python • JavaScript
   </a>
 </p>
 
+---
+
 ## ⚡ GitHub Stats
 
 <div align="center">
@@ -55,4 +59,7 @@ Java • Python • JavaScript
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devPetinatti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
+
+---
+
 ⭐ Se curtir meus projetos, deixa uma estrela!
