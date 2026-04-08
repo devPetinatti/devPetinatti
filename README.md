@@ -61,7 +61,7 @@ Java • Python • JavaScript
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devPetinatti&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
 
 <div align="center">
 
