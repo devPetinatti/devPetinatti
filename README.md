@@ -1,11 +1,8 @@
 ## Olá!! Eu sou Paulo Petinati👋
 
-
-- 🔭 Atualmente não estou trabalhando
-- 🌱 Estou estudando HTML, CSS, Python, PHP e comecei a JavaScript!
+- 🌱 Estudando HTML, CSS, Python, Javascript e Java
 - 📫 Entre em contato comigo pelo email: pauloviniciuspetinatti@gmail.com
-- 😄 Pronomes: Ele/Dele
-- ⚡ Atualmente estou cursando Análise e Desenvolvimento de Sistemas!!
+- ⚡ Atualmente cursando Cybersegurança!!
 
 
 <html lang="pt-br">
