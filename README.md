@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=java,python,js" />
 
 </div>
----
+
 
 ## 📌 Projetos em destaque
 
