@@ -37,16 +37,18 @@ Java • Python • JavaScript
 ## 🌎 Me encontre aqui
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulo-petinatti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="SEU_LINKEDIN" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
+    LinkedIn
   </a>
+  
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/petinattiii/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="SEU_INSTAGRAM" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="25"/>
+    Instagram
   </a>
 </p>
-
----
 
 ## ⚡ GitHub Stats
 
