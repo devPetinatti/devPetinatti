@@ -68,5 +68,6 @@ Java • Python • JavaScript
 <img src="https://github-profile-trophy.vercel.app/?username=devPetinatti&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
+</div>
 
 ⭐ Se curtir meus projetos, deixa uma estrela!
