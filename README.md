@@ -20,10 +20,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js" />
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
 
 </div>
-
 
 ## 📌 Projetos em destaque
 
