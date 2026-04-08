@@ -56,16 +56,5 @@
 
 </div>
 
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 ⭐ Se curtir meus projetos, deixa uma estrela!
