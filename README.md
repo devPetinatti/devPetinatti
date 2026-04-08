@@ -57,7 +57,7 @@ Java • Python • JavaScript
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img src="https://streak-stats.demolab.com?user=devPetinatti&theme=tokyonight&hide_border=true&background=0d1117"/>
 
 </div>
 
@@ -65,7 +65,7 @@ Java • Python • JavaScript
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=devPetinatti&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
