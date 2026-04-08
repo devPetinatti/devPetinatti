@@ -20,7 +20,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js" />
+
+<br><br>
+
+Java • Python • JavaScript
 
 </div>
 
